@@ -1,1 +1,4 @@
-suds
+configparser==5.0.2
+jedi==0.18.0
+parso==0.8.2
+suds-py3==1.4.4.1
